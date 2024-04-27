@@ -17,6 +17,8 @@ Save each script in a file with a .bat extension.
 Ensure you have the necessary permissions to perform the operations.
 Adapt paths as needed based on your system configuration.
 ### Step 3:
+### NAME : KISHOR KUMAR B.
+### REG NO: 212223240072
 
 
 Execute the necessary commands/batch file for the desired output. 
